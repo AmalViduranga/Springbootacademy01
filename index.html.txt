@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Chain</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Recipe Chain</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="submit-recipe.html">Submit a Recipe</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="recipe-list">
+        <h2>Popular Recipes</h2>
+        <div class="recipe-card">
+            <h3><a href="recipe-detail.html">Spaghetti Carbonara</a></h3>
+            <p>A classic Italian pasta dish with eggs, cheese, pancetta, and pepper.</p>
+        </div>
+        <div class="recipe-card">
+            <h3><a href="recipe-detail.html">Chicken Curry</a></h3>
+            <p>A flavorful chicken curry made with a blend of aromatic spices.</p>
+        </div>
+        <div class="recipe-card">
+            <h3><a href="recipe-detail.html">Chocolate Cake</a></h3>
+            <p>A rich and moist chocolate cake with a creamy frosting.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Recipe Chain. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
