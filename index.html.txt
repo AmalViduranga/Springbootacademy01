@@ -1,5 +1,5 @@
 //AMAL Testing... Fixed...
-
+//Edited by friend for test GIT PULL
 
 <!DOCTYPE html>
 <html lang="en">
